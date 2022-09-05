@@ -50,7 +50,7 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 
 Este proyecto está bajo la Licencia de La Universidad de Los Andes
 
-## Expresiones de Gratitud 🎁
+## Creditos y Agradecimientos 🎁
 
 * Esperamos que el proyecto sea util para tí, muchas gracias 🤓.
 
