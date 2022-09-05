@@ -5,7 +5,7 @@ Proyecto Aprendizaje no Supervisado
 
 # Clusters de Lineas de Producción de Cerveza (AB-Inveb)
 
-El equipo de este proyecto pretende encontrar patrones a través del proceso de agrupación que permitan implementar estrategias sobre los poteciales clusters de las lineas de producción de Cerveza estududiados, lo anterior con el fin de mejorar y focalizar esfuerzos que garanticen una óptima producción de las líneas.   
+El equipo de este proyecto pretende encontrar patrones a través del proceso de agrupación que permitan implementar estrategias sobre los poteciales clusters de las lineas de producción de Cerveza estududiados. El presente proyecto busca utilizar algoritmos de Aprendizaje no Supervisado para obtener agrupaciones de líneas cuyas características de tiempos perdidos, eficiencias y cumplimiento de metas durante el mes de julio de 2022 sean similares, así mismo busca identificar los factores de mayor influencia sobre los indicadores de productividad en las líneas de envasado, esto con el objetivo que la compañía direccione las correspondientes estrategias a cada una de las líneas dependiendo de las características del clúster al cual corresponde, con el fin de cumplir con las metas comprometidas por la zona con la compañía. 
 
 ## Comencemos con la Tabla de Contenidos del Repositorio 📋
 
