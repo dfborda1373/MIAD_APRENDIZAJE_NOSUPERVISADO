@@ -1,57 +1,36 @@
-# MIAD - APRENDIZAJE NOSUPERVISADO
+# MIAD - APRENDIZAJE NO SUPERVISADO
 Proyecto Aprendizaje no Supervisado
 
 
 
-# Clusters de Lineas de Producción de Cerveza
+# Clusters de Lineas de Producción de Cerveza (AB-Inveb)
 
-_Acá va un párrafo que describa lo que es el proyecto_
+El equipo de este proyecto pretende encontrar patrones a través del proceso de agrupación que permitan implementar estrategias sobre los poteciales clusters de las lineas de producción de Cerveza estududiados, lo anterior con el fin de mejorar y focalizar esfuerzos que garanticen una óptima producción de las líneas.   
 
-## Comenzando 🚀
+## Comencemos con la Tabla de Contenidos del Repositorio 📋
 
-Estas instrucciones te permitirán navegar por toda la informaicón asociada al proyecto de la clase Aprendizaje no Supervisado
+Acá vas a encontrar de manera general que información existe en el repositorio.
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+### * 1.DATA 🔧
 
+En esta carpeta vas a enoncontrar dos carpetas que reunión la información de los datos que se utilizarán para hacer el modelo:
 
-### Tabla de Contenidos 📋
+Las carpetas incluyen:
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+    1. SIN PROCESAR: Tiene toda la información de sus diferentes fuentes que se utlizarán en el modelo, en resumen son 3 archivos que puedes encontrar el detalle en el documento principal.
+    
+    2. FINAL: Tiene el archivo con la información relevante, filtrada y consolodida.
 
-```
-Da un ejemplo
-```
+### * 2. NOTEBOOKS & ANALYSIS 🔧
 
-### Datos 🔧
+En esta carpeta podrás encontrar los notebooks y archivos de complemento con los cuales se sacaron los datos para tener las descriptivas.
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+### * 3. DOCUMENTS ⚙️
 
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
+En documents, encontrarás el documento final para esta primera entrega del proyecto.
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - Deposito de Datos
 * [Jupyter Notebooks](https://jupyter.org/) - Ambiente e Interfaz de Desarrollo de Modelos
@@ -59,7 +38,6 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Federico Higuera** - *Líder del Proyecto* - [Github](https://github.com/Federico-Higuera)
 * **Cristian Opsina** - *Gestor de Calidad en La Implementación* - [Github](https://github.com/CrisitanOspina)
@@ -70,9 +48,9 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia de La Universidad de Los Andes
 
 ## Expresiones de Gratitud 🎁
 
-* Da las gracias públicamente 🤓.
+* Esperamos que el proyecto sea util para tí, muchas gracias 🤓.
 
