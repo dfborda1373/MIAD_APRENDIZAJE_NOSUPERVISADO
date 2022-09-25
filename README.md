@@ -23,7 +23,7 @@ Las carpetas incluyen:
 
 ### * 2. NOTEBOOKS & ANALYSIS 🔧
 
-En esta carpeta podrás encontrar los notebooks y archivos de complemento con los cuales se sacaron los datos para tener las descriptivas.
+En esta carpeta podrás encontrar los notebooks y archivos de complemento con los cuales se sacaron los datos para tener las descriptivas. En esta parte del repositorio podrás encontrar el modelo utilizado y todas las pruebas, análisis y gráficas que se usaron en la construcción del modelo. Encontrarás el modelo entrenado y las interpretaciones que se hizo de los resultados. Asimismo, encontrarás las respuestas a la pregunta de negocio planteada para este proyceto.
 
 ### * 3. DOCUMENTS ⚙️
 
